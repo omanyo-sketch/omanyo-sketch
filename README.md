@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @omanyo-sketch
-- 👀 I’m interested in programming
-- 🌱 I’m currently sharpening my skills on frontend development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in why and how questions
+- 🌱 I’m currently sharpening my skills on mobile app development
+- 💞️ I’m looking to collaborate
+- 📫 you can get me on my whatsapp number +254714963436
+- ⚡ 
 
 <!---
 omanyo-sketch/omanyo-sketch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
